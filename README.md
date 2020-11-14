@@ -2,7 +2,7 @@
 
 A User Friendly Application to Stream Educational videos for kids.It has different category to nurture your childs future.
 
-![Output demo](Output.gif)
+![Output demo](output.gif)
 
 ## Problem Statement
 
